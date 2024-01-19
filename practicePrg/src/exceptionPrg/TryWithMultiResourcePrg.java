@@ -13,7 +13,7 @@ public class TryWithMultiResourcePrg {
 
 		// Writing data to a file using FileOutputStream
 		// by passing input file as a parameter
-		FileOutputStream fos = new FileOutputStream("C:\\\\Users\\\\monalee.pawar\\\\git\\\\repository\\\\practicePrg\\\\src\\\\exceptionPrg\\outputfile.txt");
+		FileOutputStream fos = new FileOutputStream("C:\\Users\\monalee.pawar\\git\\repository\\practicePrg\\src\\exceptionPrg\\outputfile.txt");
 		BufferedReader br = new BufferedReader(new FileReader
 				("C:\\Users\\monalee.pawar\\git\\repository\\practicePrg\\src\\exceptionPrg\\inputFile.txt"));
 		// Adding resource
